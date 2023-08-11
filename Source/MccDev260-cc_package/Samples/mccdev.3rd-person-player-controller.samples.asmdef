@@ -1,0 +1,17 @@
+{
+    "name": "mccdev260.3rd-person-player-controller.samples",
+    "rootNamespace": "",
+    "references": [
+        "GUID:5d61932298543434ebe8a378c46b9c0b",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
